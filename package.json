@@ -1,0 +1,17 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "A memory testing game with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "games",
+    "memory-testing",
+    "memory",
+    "typescript"
+  ],
+  "author": "Mohamed Hussein",
+  "license": "MIT"
+}
